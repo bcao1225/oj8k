@@ -4,11 +4,8 @@
 
  只是为了方便使用（如有侵权，请联系我删除 邮箱：6578093@Gmail.com）
  
- 
-    
-    wget https://raw.githubusercontent.com/oj8k/oj8k/master/oj8k && bash oj8k
-    
-      
+
+wget https://raw.githubusercontent.com/bcao1225/oj8k/master/oj8k && bash oj8k
  
  
  
