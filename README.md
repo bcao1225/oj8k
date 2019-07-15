@@ -6,7 +6,7 @@
  
  
     
-    wget https://raw.githubusercontent.com/oj8k/oj8k/master/oj8k && bash oj8k
+    wget https://github.com/bcao1225/oj8k/raw/master/oj8k && bash oj8k
     
       
  
